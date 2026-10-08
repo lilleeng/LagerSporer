@@ -1,0 +1,15 @@
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\bin\Debug\net10.0\et.exe
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\bin\Debug\net10.0\et.deps.json
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\bin\Debug\net10.0\et.runtimeconfig.json
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\bin\Debug\net10.0\et.dll
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\bin\Debug\net10.0\et.pdb
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\et.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\et.AssemblyInfoInputs.cache
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\et.AssemblyInfo.cs
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\et.csproj.CoreCompileInputs.cache
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\et.sourcelink.json
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\et.dll
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\refint\et.dll
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\et.pdb
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\et.genruntimeconfig.cache
+C:\Users\klill\Documents\Programmering\LagerSporer\ExpenseTracker\obj\Debug\net10.0\ref\et.dll

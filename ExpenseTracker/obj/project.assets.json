@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klill\\Documents\\Programmering\\LagerSporer\\ExplicitHelloWorld\\hw.csproj",
-      "projectName": "hw",
-      "projectPath": "C:\\Users\\klill\\Documents\\Programmering\\LagerSporer\\ExplicitHelloWorld\\hw.csproj",
+      "projectUniqueName": "C:\\Users\\klill\\Documents\\Programmering\\LagerSporer\\ExpenseTracker\\et.csproj",
+      "projectName": "et",
+      "projectPath": "C:\\Users\\klill\\Documents\\Programmering\\LagerSporer\\ExpenseTracker\\et.csproj",
       "packagesPath": "C:\\Users\\klill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klill\\Documents\\Programmering\\LagerSporer\\ExplicitHelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\klill\\Documents\\Programmering\\LagerSporer\\ExpenseTracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klill\\AppData\\Roaming\\NuGet\\NuGet.Config"

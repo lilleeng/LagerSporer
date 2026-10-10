@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\klill\\.nuget\\packages\\": {}
+    "C:\\Users\\NintendoDS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klill\\Documents\\Programmering\\LagerSporer\\ExpenseTracker\\et.csproj",
+      "projectUniqueName": "C:\\Users\\NintendoDS\\Documents\\Programmering\\LagerSporer\\ExpenseTracker\\et.csproj",
       "projectName": "et",
-      "projectPath": "C:\\Users\\klill\\Documents\\Programmering\\LagerSporer\\ExpenseTracker\\et.csproj",
-      "packagesPath": "C:\\Users\\klill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klill\\Documents\\Programmering\\LagerSporer\\ExpenseTracker\\obj\\",
+      "projectPath": "C:\\Users\\NintendoDS\\Documents\\Programmering\\LagerSporer\\ExpenseTracker\\et.csproj",
+      "packagesPath": "C:\\Users\\NintendoDS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NintendoDS\\Documents\\Programmering\\LagerSporer\\ExpenseTracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\klill\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\NintendoDS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
